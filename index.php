@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html>
-<body>
+	<head>
+		<title>My PHP<</title>
+	</head>
 
-<?php
-$color = "red";
-echo "My car is " . $color . "<br>";
-echo "My house is " . $COLOR . "<br>";
-echo "My boat is " . $coLOR . "<br>";
-?>
-
-</body>
+	<body>
+		<h1>My PHP Code Practice</h1>
+		<a href="hello.php">Hello</a>
+		<?php
+			echo "<p><b>This is the php code block</b></p>"
+		?>
+	</body>
 </html>
